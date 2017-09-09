@@ -11,6 +11,8 @@ The `default.json` file should be structured like the following:
     "CLIENT_ID": <your_client_id>,
     "CLIENT_SECRET": <your_client_secret>
   },
-  "NREL": <your_nrel_key>
+  "Google": {
+    "KEY": <key>
+  }
 }
 ```
