@@ -21,10 +21,11 @@ redcross = function(lat, long) {
               'latitude': shelters[i].geometry.y,
               'longitude': shelters[i].geometry.x,
               'type': 'shelter',
-              'status': shelters[i].attributes.hasOwnProperty('status') ? 'functional' : shelters[i].attributes.status
+              'status': shelters[i].attributes.status == null ? 'functional' : shelters[i].attributes.status
             });
           }
         }
+        console.log(closest);
         resolve(closest);
       });
     });
