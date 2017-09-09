@@ -1,0 +1,23 @@
+{
+  "name": "pennapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonchen/disasters_app_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonchen/disasters_app_backend/issues"
+  },
+  "homepage": "https://github.com/jacksonchen/disasters_app_backend#readme",
+  "dependencies": {
+    "config": "^1.26.2",
+    "request": "^2.81.0"
+  }
+}
