@@ -29,14 +29,14 @@ updateEntry = function(type, lat, long, status, callback) {
       case 'grocer':
         db.collection('grocers').findOne({'lat': lat, 'long': long}, function(err, query) {
           if (err) {
-            callback({'status': '500', 'body': 'Could not get grocer'});
+            return callback({'status': '500', 'body': 'Could not get grocer'});
           }
 
           if (query) {
             db.collection('grocers').updateOne({'lat': lat, 'long': long}, { $set: { 'status': status }}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save grocer'});
+                return callback({'status': '500', 'body': 'Could not save grocer'});
               }
               callback({'status': '200', 'body': 'Success'});
             })
@@ -45,7 +45,7 @@ updateEntry = function(type, lat, long, status, callback) {
             db.collection('grocers').insertOne({'lat': lat, 'long': long, 'status': status}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save grocer'});
+                return callback({'status': '500', 'body': 'Could not save grocer'});
               }
               callback({'status': '200', 'body': 'Success'});
             });
@@ -55,14 +55,14 @@ updateEntry = function(type, lat, long, status, callback) {
       case 'gas':
         db.collection('gas').findOne({'lat': lat, 'long': long}, function(err, query) {
           if (err) {
-            callback({'status': '500', 'body': 'Could not get gas'});
+            return callback({'status': '500', 'body': 'Could not get gas'});
           }
 
           if (query) {
             db.collection('gas').updateOne({'lat': lat, 'long': long}, { $set: { 'status': status }}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save gas'});
+                return callback({'status': '500', 'body': 'Could not save gas'});
               }
               callback({'status': '200', 'body': 'Success'});
             })
@@ -71,7 +71,7 @@ updateEntry = function(type, lat, long, status, callback) {
             db.collection('gas').insertOne({'lat': lat, 'long': long, 'status': status}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save gas'});
+                return callback({'status': '500', 'body': 'Could not save gas'});
               }
               callback({'status': '200', 'body': 'Success'});
             });
@@ -81,14 +81,14 @@ updateEntry = function(type, lat, long, status, callback) {
       case 'shelter':
         db.collection('sheltersTest').findOne({'lat': lat, 'long': long}, function(err, query) {
           if (err) {
-            callback({'status': '500', 'body': 'Could not get shelters'});
+            return callback({'status': '500', 'body': 'Could not get shelters'});
           }
 
           if (query) {
             db.collection('sheltersTest').updateOne({'lat': lat, 'long': long}, { $set: { 'status': status }}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save shelters'});
+                return callback({'status': '500', 'body': 'Could not save shelters'});
               }
               callback({'status': '200', 'body': 'Success'});
             })
@@ -97,7 +97,7 @@ updateEntry = function(type, lat, long, status, callback) {
             db.collection('sheltersTest').insertOne({'lat': lat, 'long': long, 'status': status}, function(err, doc) {
               db.close();
               if (err) {
-                callback({'status': '500', 'body': 'Could not save shelters'});
+                return callback({'status': '500', 'body': 'Could not save shelters'});
               }
               callback({'status': '200', 'body': 'Success'});
             });
