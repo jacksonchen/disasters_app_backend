@@ -5,6 +5,7 @@ Contributors: Jackson Chen, Prakruth Adari, Arsalaan Ansari (Frontend)
 Create a `config/` directory, and within it `default.json`. This will hold all of the API keys.
 
 The `default.json` file should be structured like the following:
+```
 {
   "Foursquare": {
     "CLIENT_ID": <your_client_id>,
@@ -12,3 +13,4 @@ The `default.json` file should be structured like the following:
   },
   "NREL": <your_nrel_key>
 }
+```
