@@ -3,7 +3,7 @@ var request = require('request'),
   client_id = config.get('Google.KEY');
 
 
-googleAPICall = function(lat, long, callback){
+googleAPICall = function(lat, long){
   return new Promise((resolve, reject) => {
     var googleUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=';
     googleUrl = googleUrl.concat(lat, ',', long);

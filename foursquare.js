@@ -3,7 +3,7 @@ var request = require('request'),
     client_id = config.get('Foursquare.CLIENT_ID'),
     client_secret = config.get('Foursquare.CLIENT_SECRET');
 
-foursquareAPI = function(lat, long, callback) {
+foursquareAPI = function(lat, long) {
   return new Promise((resolve, reject) => {
     var base = 'https://api.foursquare.com/v2/venues/search?ll=';
     base = base.concat(lat, ',', long);

@@ -1,0 +1,2450 @@
+[
+ {
+  "attributes": {
+   "SHELTER_NAME": "UNIVERSITY PARKWAY BAPTIST CHURCH"
+  },
+  "geometry": {
+   "x": -82.34251602400002,
+   "y": 36.306972843999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Philip O'Brien Elementary"
+  },
+  "geometry": {
+   "x": -81.940303239999992,
+   "y": 28.040530655999987
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Ben Garza Gym"
+  },
+  "geometry": {
+   "x": -97.409964146999982,
+   "y": 27.79239871499999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Booker High School"
+  },
+  "geometry": {
+   "x": -82.538514267999972,
+   "y": 27.363799821999976
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Crosspointe Church LLC"
+  },
+  "geometry": {
+   "x": -83.287460660000022,
+   "y": 30.870031583000014
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "First Baptist Church"
+  },
+  "geometry": {
+   "x": -97.451216047999992,
+   "y": 29.501038623999989
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Miami Carol City High School"
+  },
+  "geometry": {
+   "x": -80.257491859000027,
+   "y": 25.944103085999984
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MYAKKA CITY ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.162471754000023,
+   "y": 27.350939516999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Palm Harbor University High School"
+  },
+  "geometry": {
+   "x": -82.764028258999986,
+   "y": 28.083320398000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Falcon Cove Middle School"
+  },
+  "geometry": {
+   "x": -80.393739145999973,
+   "y": 26.064198551000004
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ROBERT H. PRINE ELEMENTARY"
+  },
+  "geometry": {
+   "x": -82.599910981999983,
+   "y": 27.468489899000019
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LARGO HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.787608482999985,
+   "y": 27.920489151000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Treasure Coast High School"
+  },
+  "geometry": {
+   "x": -80.373450440999989,
+   "y": 27.248407811999982
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "New Renaissance Middle School"
+  },
+  "geometry": {
+   "x": -80.288572428000009,
+   "y": 25.98620034999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "South Fort Myers High School"
+  },
+  "geometry": {
+   "x": -81.846962605999977,
+   "y": 26.53891467699998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "GILBERT W MCNEAL ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.395324214000027,
+   "y": 27.428182284999991
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bayshore Elementary School"
+  },
+  "geometry": {
+   "x": -82.587689195999985,
+   "y": 27.433218489000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Oceanway Elementary School"
+  },
+  "geometry": {
+   "x": -81.626008177000017,
+   "y": 30.464311442999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "DESOTO MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -81.851639080999973,
+   "y": 27.223721422999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Fort Pierce Westwood High School"
+  },
+  "geometry": {
+   "x": -80.379700730000025,
+   "y": 27.458048770999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "FOREST RIDGE ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.443150160000016,
+   "y": 28.906532803999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Lely High School"
+  },
+  "geometry": {
+   "x": -81.712945638000008,
+   "y": 26.093021820999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "THOMAS E WEIGHTMAN MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.308377759999985,
+   "y": 28.255135870999993
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Pompano Beach Institute of International Studies High S"
+  },
+  "geometry": {
+   "x": -80.110614585000008,
+   "y": 26.237174148999998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Braden River Middle School"
+  },
+  "geometry": {
+   "x": -82.436378264999973,
+   "y": 27.429540261999989
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Braden River High School"
+  },
+  "geometry": {
+   "x": -82.478142778999995,
+   "y": 27.446159733000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MANDARIN MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -81.586752769999975,
+   "y": 30.190602782999974
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ONECO ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.536203010000008,
+   "y": 27.449469238000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "FREEDOM ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.446936305000008,
+   "y": 27.485666949999995
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Felix Varela High School"
+  },
+  "geometry": {
+   "x": -80.44241944700002,
+   "y": 25.677166322000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "South Mainland Community Center"
+  },
+  "geometry": {
+   "x": -80.501235108000003,
+   "y": 27.858381970999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "RIVER RIDGE MS/HS General Population"
+  },
+  "geometry": {
+   "x": -82.620838205999974,
+   "y": 28.269641936000028
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "TARPON SPRINGS MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.781457121000017,
+   "y": 28.15100337299998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Silver Trail MS"
+  },
+  "geometry": {
+   "x": -80.391931509000017,
+   "y": 26.029358815000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ROGERS GARDEN ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.558838944999991,
+   "y": 27.488059146000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Fort Pierce Central High School"
+  },
+  "geometry": {
+   "x": -80.336146563,
+   "y": 27.410861344000011
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "South Elementary School"
+  },
+  "geometry": {
+   "x": -80.83664625199998,
+   "y": 27.220501850000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Lyons Creek Middle School"
+  },
+  "geometry": {
+   "x": -80.182209612000008,
+   "y": 26.309641519000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Seminole Ridge High School"
+  },
+  "geometry": {
+   "x": -80.307656040999973,
+   "y": 26.747107726000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Mims Elementary School"
+  },
+  "geometry": {
+   "x": -80.846268998000028,
+   "y": 28.668167499999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Plantation Elementary School"
+  },
+  "geometry": {
+   "x": -80.204332932999989,
+   "y": 26.129705166999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Monarch High School"
+  },
+  "geometry": {
+   "x": -80.192776644999981,
+   "y": 26.285764518999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MANATEE HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.593642708000004,
+   "y": 27.491125834000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Kathleen Elementary"
+  },
+  "geometry": {
+   "x": -82.018355398999972,
+   "y": 28.126209065000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "PARROTT MIDDLE SCHOOL Building Three Gymnasium"
+  },
+  "geometry": {
+   "x": -82.410621681000009,
+   "y": 28.602894707000019
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Watkins Elementary School"
+  },
+  "geometry": {
+   "x": -80.194602268999972,
+   "y": 25.978268329999992
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Everglades  Elementary School"
+  },
+  "geometry": {
+   "x": -80.389224549000005,
+   "y": 26.085755299000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ROCK CREEK COMMUNITY CENTER"
+  },
+  "geometry": {
+   "x": -121.89414129300002,
+   "y": 45.692162644000007
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LECANTO HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.496102241000017,
+   "y": 28.823543366000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "HERON CREEK MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.234390537000024,
+   "y": 27.077527633999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "HERNANDO HIGH SCHOOL Building 25"
+  },
+  "geometry": {
+   "x": -82.383767926000019,
+   "y": 28.564061981999998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Maple Grove Baptist Church"
+  },
+  "geometry": {
+   "x": -81.122954413000002,
+   "y": 26.835771885999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "VIRGIL MILLS ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.492172202999996,
+   "y": 27.573953393000011
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Browning - Pearce Elementary School"
+  },
+  "geometry": {
+   "x": -81.581581669000002,
+   "y": 29.608561565999992
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Boynton Beach Community High School"
+  },
+  "geometry": {
+   "x": -80.076548265999975,
+   "y": 26.541459757999974
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Immokalee High School"
+  },
+  "geometry": {
+   "x": -81.424011456000017,
+   "y": 26.425851910999995
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "GENE WITT ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.384838118999994,
+   "y": 27.497268204000022
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Twin Lakes Elementary School"
+  },
+  "geometry": {
+   "x": -81.514780028000018,
+   "y": 30.222762538999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MELBOURNE HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -80.618686566000008,
+   "y": 28.088842235000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Alta Vista Elementary School"
+  },
+  "geometry": {
+   "x": -81.619640977000017,
+   "y": 28.054002498999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LEE MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.603643168000019,
+   "y": 27.447850458999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Fox Trail Elementary School"
+  },
+  "geometry": {
+   "x": -80.281953418000001,
+   "y": 26.108364255000026
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Park Vista Community High School"
+  },
+  "geometry": {
+   "x": -80.146407601000021,
+   "y": 26.56570548000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Westgate K-8"
+  },
+  "geometry": {
+   "x": -80.38328002999998,
+   "y": 27.306836764000025
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "West Gate Elementary School"
+  },
+  "geometry": {
+   "x": -80.090397826000014,
+   "y": 26.701790888999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "GIBBS HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.679465009000012,
+   "y": 27.761471029000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "WESLEY CHAPEL HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.308350781000001,
+   "y": 28.255135870999993
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Forest Hill High School"
+  },
+  "geometry": {
+   "x": -80.063894805000018,
+   "y": 26.654495543999985
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "TRINITY ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.636855131000004,
+   "y": 28.189485364000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Centennial Middle School"
+  },
+  "geometry": {
+   "x": -82.179999539999983,
+   "y": 28.302898863999985
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Jorge Mas Canosa MS"
+  },
+  "geometry": {
+   "x": -80.380833874000018,
+   "y": 25.766001351999989
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bayside High School"
+  },
+  "geometry": {
+   "x": -80.675847472999976,
+   "y": 27.933304490000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Boca Raton High School"
+  },
+  "geometry": {
+   "x": -80.115920585000026,
+   "y": 26.359922614000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Port St. John Community Center"
+  },
+  "geometry": {
+   "x": -80.805205953999973,
+   "y": 28.474921182000003
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "CARLOS HAILE MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.44709818299998,
+   "y": 27.485666949999995
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Apollo Elementary School"
+  },
+  "geometry": {
+   "x": -80.842320974000017,
+   "y": 28.577533825999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Calusa Park Elementary"
+  },
+  "geometry": {
+   "x": -81.718503447999979,
+   "y": 26.142871241000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Winfield Community & Recreation Center"
+  },
+  "geometry": {
+   "x": -82.695508914000015,
+   "y": 30.267440856999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Sherwood Elementary School"
+  },
+  "geometry": {
+   "x": -80.664120314999991,
+   "y": 28.171957577000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Challenger Elementary School"
+  },
+  "geometry": {
+   "x": -80.276089838000019,
+   "y": 26.194897020999974
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Varsity Lakes Middle School"
+  },
+  "geometry": {
+   "x": -81.715050050999992,
+   "y": 26.620609090000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LONGLEAF ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.640263561999973,
+   "y": 28.202471573000025
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MT HOOD COMMUNITY COLLEGE"
+  },
+  "geometry": {
+   "x": -122.39166422599999,
+   "y": 45.518989192999982
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Arlington Middle School"
+  },
+  "geometry": {
+   "x": -81.569971421999981,
+   "y": 30.337650928000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Callahan Intermediate Building 1"
+  },
+  "geometry": {
+   "x": -81.879374171999984,
+   "y": 30.549477239999987
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "SEA BREEZE ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.632700263999993,
+   "y": 27.469793916000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Eagle Heights Fellowship"
+  },
+  "geometry": {
+   "x": -94.893778021000003,
+   "y": 29.877063152000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "BURNETT MIDDLE SCHOOL-PET"
+  },
+  "geometry": {
+   "x": -82.277701884999999,
+   "y": 28.007867278999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Buffalo Creek Middle School"
+  },
+  "geometry": {
+   "x": -82.491299861000016,
+   "y": 27.573962386000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "East Laurens High School"
+  },
+  "geometry": {
+   "x": -82.815595384999995,
+   "y": 32.561611353999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Walter Butler Community Center/Bernice G. Jackson Park"
+  },
+  "geometry": {
+   "x": -80.761732728000027,
+   "y": 28.437365494000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Esc. Antonio R. Barcelo (Ecologica Elemental)"
+  },
+  "geometry": {
+   "x": -65.302540000000022,
+   "y": 18.307599999999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Edificio Dale la Mano a PR"
+  },
+  "geometry": {
+   "x": -65.44231000000002,
+   "y": 18.137069999999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "PIZZO ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.404884005999975,
+   "y": 28.054596052000022
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Palm Beach Central High School"
+  },
+  "geometry": {
+   "x": -80.188540837999994,
+   "y": 26.650880269000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "St Mary Catholic Church"
+  },
+  "geometry": {
+   "x": -95.08169135899999,
+   "y": 30.341077344999974
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Ohio Dominican University"
+  },
+  "geometry": {
+   "x": -82.941419528999972,
+   "y": 39.994480947
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Camp Pearl"
+  },
+  "geometry": {
+   "x": -93.104954559000021,
+   "y": 30.484258405999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "First United Pentecostal Church"
+  },
+  "geometry": {
+   "x": -92.668333714000028,
+   "y": 30.815694545999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Palm Beach Gardens High School"
+  },
+  "geometry": {
+   "x": -80.101612370999987,
+   "y": 26.823442179999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "KINNAN ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.519772396000008,
+   "y": 27.403495895999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Liberty High School"
+  },
+  "geometry": {
+   "x": -81.440100328000028,
+   "y": 28.160626119000028
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "East Brainerd Church Of Christ"
+  },
+  "geometry": {
+   "x": -85.153463938000016,
+   "y": 35.006373325000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MIDDLETON BURNEY ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -81.523872174000019,
+   "y": 29.439084330000014
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "John I Leonard High School"
+  },
+  "geometry": {
+   "x": -80.117296547000024,
+   "y": 26.629719222000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MIKE FASANO REGIONAL HURRICANE SHELTER"
+  },
+  "geometry": {
+   "x": -82.658052150999993,
+   "y": 28.389746392000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Sacred Heart Catholic Church - Family Life Center"
+  },
+  "geometry": {
+   "x": -95.760670498000025,
+   "y": 29.580583658000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Park Lakes Elementary School"
+  },
+  "geometry": {
+   "x": -80.204801999999972,
+   "y": 26.17415299999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Ware County High School"
+  },
+  "geometry": {
+   "x": -82.383713966000016,
+   "y": 31.208581360999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "KAZEN MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -98.545816864000017,
+   "y": 29.330221397999992
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Treadway Elementary"
+  },
+  "geometry": {
+   "x": -81.781950617000007,
+   "y": 28.84434468500001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Second Baptist Church Of La Grange"
+  },
+  "geometry": {
+   "x": -96.879957702000013,
+   "y": 29.916606340999977
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Copperfield Church"
+  },
+  "geometry": {
+   "x": -95.635646748999989,
+   "y": 29.899959889999991
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ATWATER ELEMENTARY"
+  },
+  "geometry": {
+   "x": -82.936886946000016,
+   "y": 39.614643295000008
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "A J Loos Field House"
+  },
+  "geometry": {
+   "x": -96.851215369999977,
+   "y": 32.939965125000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Coral Glades High School"
+  },
+  "geometry": {
+   "x": -80.292755999999997,
+   "y": 26.26619199999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "South Miami High School"
+  },
+  "geometry": {
+   "x": -80.305578606999973,
+   "y": 25.721071223000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Cypress Palm Middle"
+  },
+  "geometry": {
+   "x": -81.572435563999989,
+   "y": 26.321611494000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Golden Acres Baptist Church CLC"
+  },
+  "geometry": {
+   "x": -95.162990071000024,
+   "y": 29.669859356000018
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Trinity on the Hill United Methodist Church"
+  },
+  "geometry": {
+   "x": -82.027798280000013,
+   "y": 33.474135430999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Calvary Baptist Church"
+  },
+  "geometry": {
+   "x": -95.08715923699998,
+   "y": 30.351464514999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Chimney Lake Elementary School"
+  },
+  "geometry": {
+   "x": -81.809047190000001,
+   "y": 30.195809858000018
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "CHILES ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.389523586999985,
+   "y": 28.115318274999993
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Blackshear Trail School"
+  },
+  "geometry": {
+   "x": -83.769146531999979,
+   "y": 31.980451473000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bentley Elementary School-psn/pet"
+  },
+  "geometry": {
+   "x": -81.329061035999985,
+   "y": 28.793811779999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Putnam Centennial Center"
+  },
+  "geometry": {
+   "x": -120.92518475999998,
+   "y": 47.195226530000014
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Labelle Adult School"
+  },
+  "geometry": {
+   "x": -81.389720307000005,
+   "y": 26.747053767000011
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "McLeod Bethune Elementary School"
+  },
+  "geometry": {
+   "x": -80.083086337999987,
+   "y": 26.775274492999984
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Arthur Ashe Middle School"
+  },
+  "geometry": {
+   "x": -80.171049025000002,
+   "y": 26.14816824799999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Kissimmee Middle School"
+  },
+  "geometry": {
+   "x": -81.436574984999993,
+   "y": 28.31618185100001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "RAYMOND B. STEWART MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.180251349999992,
+   "y": 28.239622567000026
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LANDMARK MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -81.489338207999992,
+   "y": 30.321714942000028
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Rock Island Elementary School"
+  },
+  "geometry": {
+   "x": -80.173729004999984,
+   "y": 26.151198964000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Miami High School"
+  },
+  "geometry": {
+   "x": -80.182884102999992,
+   "y": 25.901331330999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "NORTH PORT HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.233841949999999,
+   "y": 27.077419715000019
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Andrew A Robinson Elementary School"
+  },
+  "geometry": {
+   "x": -81.655353054999978,
+   "y": 30.350799016999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Doctor Michael Krop HS"
+  },
+  "geometry": {
+   "x": -80.174070746999973,
+   "y": 25.973546890000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Dublin High School"
+  },
+  "geometry": {
+   "x": -82.931760811000004,
+   "y": 32.547222202
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "The Legends Center"
+  },
+  "geometry": {
+   "x": -81.727712505,
+   "y": 30.395189551999977
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "NEW RIVER ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.276622534000012,
+   "y": 28.226529930000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Julius Sprauve School Main Campus"
+  },
+  "geometry": {
+   "x": -64.793874000000017,
+   "y": 18.330546000000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Everglades Hign School"
+  },
+  "geometry": {
+   "x": -80.37490078899998,
+   "y": 25.971163063000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Alachua Elementary School"
+  },
+  "geometry": {
+   "x": -82.493208827999979,
+   "y": 29.794746253000028
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Estero Community Center"
+  },
+  "geometry": {
+   "x": -81.799180418999981,
+   "y": 26.427428410999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Labelle Middle School"
+  },
+  "geometry": {
+   "x": -81.368099151000024,
+   "y": 26.749717480000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Harmony High School"
+  },
+  "geometry": {
+   "x": -81.155124372999978,
+   "y": 28.187880870000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "NATURE COAST TECHNICAL HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.461385873999973,
+   "y": 28.490320606000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Santa Fe High School"
+  },
+  "geometry": {
+   "x": -82.522154231999991,
+   "y": 29.803525836000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Ave- Maria University"
+  },
+  "geometry": {
+   "x": -81.438110386999995,
+   "y": 26.336287712000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Golden Gate High School"
+  },
+  "geometry": {
+   "x": -81.700220290000004,
+   "y": 26.166645931000005
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "TILLMAN ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.551110323999978,
+   "y": 27.53965326399998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Independence Middle School"
+  },
+  "geometry": {
+   "x": -80.124184147999983,
+   "y": 26.898214971000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Q I Roberts Elementary School"
+  },
+  "geometry": {
+   "x": -81.846767408999995,
+   "y": 29.727204056999994
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Collier Regional Park - People Shelter"
+  },
+  "geometry": {
+   "x": -81.753400558999999,
+   "y": 26.263772573999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "GULLETT ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.419275786000014,
+   "y": 27.460997849000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Gulf Coast High School"
+  },
+  "geometry": {
+   "x": -81.707421307999994,
+   "y": 26.27208972599999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "SESSUMS ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.318592179999996,
+   "y": 27.834790693000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Clawson Assembly Of God"
+  },
+  "geometry": {
+   "x": -94.795289798999988,
+   "y": 31.403987868999991
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Macon Park Community Center"
+  },
+  "geometry": {
+   "x": -83.679139610999982,
+   "y": 32.884336100999974
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "West Broward High School"
+  },
+  "geometry": {
+   "x": -80.427968335000003,
+   "y": 26.007691356999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "West Boca Raton High School"
+  },
+  "geometry": {
+   "x": -80.251066434999984,
+   "y": 26.354153575999987
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ROBERT WILLIS ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.393722717999992,
+   "y": 27.396798326999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Sumter Fairgrounds Cow Palace"
+  },
+  "geometry": {
+   "x": -82.05484829300002,
+   "y": 28.644452721999983
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Taylor County Elementary School"
+  },
+  "geometry": {
+   "x": -83.562651570000014,
+   "y": 30.117308052999988
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Main Baptist Church"
+  },
+  "geometry": {
+   "x": -94.748582957999986,
+   "y": 30.101180645999989
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bronson Elementary School"
+  },
+  "geometry": {
+   "x": -82.631179814999996,
+   "y": 29.463623218000009
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Kanapaha Middle School"
+  },
+  "geometry": {
+   "x": -82.42255015500001,
+   "y": 29.608513148999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "SUNLAKE HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.505755183000019,
+   "y": 28.200230888000021
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Space Coast Jr/sr High School"
+  },
+  "geometry": {
+   "x": -80.827411218000009,
+   "y": 28.47552665500001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "SHIELDS MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.430937441000026,
+   "y": 27.735153747000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "DAUGHTREY ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.558209353999985,
+   "y": 27.429327811999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Callahan Middle School"
+  },
+  "geometry": {
+   "x": -81.835538378000024,
+   "y": 30.571021400000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Saint Croix Educational Complex"
+  },
+  "geometry": {
+   "x": -64.792566350000016,
+   "y": 17.733972767000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Mississippi Boulevard Christian Church"
+  },
+  "geometry": {
+   "x": -90.021238234999998,
+   "y": 35.141247340000007
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "First Baptist Church Hamshire"
+  },
+  "geometry": {
+   "x": -94.317749563000007,
+   "y": 29.854263248999985
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Oakridge Middle School"
+  },
+  "geometry": {
+   "x": -81.689145161999988,
+   "y": 26.265844804999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bethany Moravian Church"
+  },
+  "geometry": {
+   "x": -64.793137284000011,
+   "y": 18.330573859000026
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Knud Hansen HS Complex"
+  },
+  "geometry": {
+   "x": -64.932156254999995,
+   "y": 18.340513965000014
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Herbert Grigg Home for the Aged"
+  },
+  "geometry": {
+   "x": -64.645102106000024,
+   "y": 17.741450499999985
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Shell Elementary School"
+  },
+  "geometry": {
+   "x": -82.091171127999985,
+   "y": 29.594323286000019
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Somerset Academy (formerly Jefferson County HS)"
+  },
+  "geometry": {
+   "x": -83.881416716999979,
+   "y": 30.490875288999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "BARTELS MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.350767838000024,
+   "y": 28.167593097000008
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bryceville Elementary School"
+  },
+  "geometry": {
+   "x": -81.802219046000005,
+   "y": 30.525141528000006
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "East Lee High School"
+  },
+  "geometry": {
+   "x": -81.601837999999987,
+   "y": 26.557900000000018
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "PASCO MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.195889399999999,
+   "y": 28.360301300000003
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Westside High School"
+  },
+  "geometry": {
+   "x": -82.052300000000002,
+   "y": 33.51348999999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Liberty Magnet School (Pet Shelter)"
+  },
+  "geometry": {
+   "x": -80.281209999999987,
+   "y": 27.442862999999988
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Rawlings Elementary School"
+  },
+  "geometry": {
+   "x": -82.305760733,
+   "y": 29.684994946000018
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Hialeah Gardens HS"
+  },
+  "geometry": {
+   "x": -80.421229648999997,
+   "y": 25.846359813999982
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Miami Central High School"
+  },
+  "geometry": {
+   "x": -80.227558159000012,
+   "y": 25.861205255000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Shoal River Middle School"
+  },
+  "geometry": {
+   "x": -86.539886899999999,
+   "y": 30.738231999999982
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Williams Elementary School"
+  },
+  "geometry": {
+   "x": -82.309908699999994,
+   "y": 29.645619099999976
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Waldo Community School"
+  },
+  "geometry": {
+   "x": -82.16949342800001,
+   "y": 29.791228494999984
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Ed Frasier Hospital Special Needs"
+  },
+  "geometry": {
+   "x": -82.118751999999972,
+   "y": 30.285139000000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "East Macon Recreation Center"
+  },
+  "geometry": {
+   "x": -83.624829926000018,
+   "y": 32.827263528999993
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Manatee Elementary School"
+  },
+  "geometry": {
+   "x": -80.698726255999986,
+   "y": 28.226676852000026
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Barney Veal Center"
+  },
+  "geometry": {
+   "x": -81.334475466000015,
+   "y": 28.298276306999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Explorer K-8"
+  },
+  "geometry": {
+   "x": -82.55360589999998,
+   "y": 28.495829000000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "HIALEAH MS"
+  },
+  "geometry": {
+   "x": -80.304798526000013,
+   "y": 25.905976118000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Mascotte Charter Elementary"
+  },
+  "geometry": {
+   "x": -81.884639499999992,
+   "y": 28.573538100000007
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "FIU COLLEGE OF BUSINESS COMPLEX"
+  },
+  "geometry": {
+   "x": -80.376202013000011,
+   "y": 25.757222989000013
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Central Ridge Elementary School"
+  },
+  "geometry": {
+   "x": -82.426202999999987,
+   "y": 28.980098199999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Florida International University"
+  },
+  "geometry": {
+   "x": -80.359437593999985,
+   "y": 25.735037746999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "WILLIAMS ELEMENTARY"
+  },
+  "geometry": {
+   "x": -82.466195527000025,
+   "y": 27.401952525000013
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Island Coast High School"
+  },
+  "geometry": {
+   "x": -81.945877353000014,
+   "y": 26.69272863499998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Viera Regional Park Community Center"
+  },
+  "geometry": {
+   "x": -80.698726255999986,
+   "y": 28.226676852000026
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "MIAMI DADE COUNTY EXPO FAIR CENTER"
+  },
+  "geometry": {
+   "x": -80.359437593999985,
+   "y": 25.735037746999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "First Baptist Church of Weaverville"
+  },
+  "geometry": {
+   "x": -122.9331239,
+   "y": 40.725633700000003
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Dunn Oliver Acadome"
+  },
+  "geometry": {
+   "x": -86.291320100000007,
+   "y": 32.36325770000002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Wickham Park Community Center"
+  },
+  "geometry": {
+   "x": -80.668803799999978,
+   "y": 28.162683200000004
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Oakhurst Community Center"
+  },
+  "geometry": {
+   "x": -119.62673469999999,
+   "y": 37.368699300000003
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "FIVAY HIGH SCHOOL"
+  },
+  "geometry": {
+   "x": -82.659299799999985,
+   "y": 28.334186999999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Marie K Young Wedgewood Community Center"
+  },
+  "geometry": {
+   "x": -87.269998799999996,
+   "y": 30.492110299999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Refugio County Fairgrounds"
+  },
+  "geometry": {
+   "x": -97.292769000000021,
+   "y": 28.327622399999996
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Angleton ISD Admin Building"
+  },
+  "geometry": {
+   "x": -95.419040999999993,
+   "y": 29.178561500000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LOUISE JOHNSON MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.53791172199999,
+   "y": 27.47690755299999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "LECANTO MIDDLE SCHOOL"
+  },
+  "geometry": {
+   "x": -82.496399016999987,
+   "y": 28.824505640999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Brookside Middle School-Pet"
+  },
+  "geometry": {
+   "x": -82.522272510999983,
+   "y": 27.30153975799999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Atlantic High School"
+  },
+  "geometry": {
+   "x": -80.097412537000025,
+   "y": 26.459036894000008
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Imperial Estates Elementary School"
+  },
+  "geometry": {
+   "x": -80.811078527000006,
+   "y": 28.542775028999984
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "ODESSA ELEMENTARY SCHOOL"
+  },
+  "geometry": {
+   "x": -82.603069480999977,
+   "y": 28.173644181999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Buchholz High School"
+  },
+  "geometry": {
+   "x": -82.401448597000012,
+   "y": 29.67759352500002
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Frank Johnson Recreation Center"
+  },
+  "geometry": {
+   "x": -83.662981565999985,
+   "y": 32.825913104999984
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Terra Environmenta Research Institute"
+  },
+  "geometry": {
+   "x": -80.370098374000008,
+   "y": 25.690339312999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Lone Star Civic Center"
+  },
+  "geometry": {
+   "x": -95.429733199999987,
+   "y": 30.344362199999978
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Kay Bailey Hutchison Convention Center"
+  },
+  "geometry": {
+   "x": -96.801315499999987,
+   "y": 32.773662999999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "First United Methodist Church"
+  },
+  "geometry": {
+   "x": -94.796453999999983,
+   "y": 30.060538000000008
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "American Legion Post 658"
+  },
+  "geometry": {
+   "x": -95.06354540000001,
+   "y": 29.902261399999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Eureka Church of God"
+  },
+  "geometry": {
+   "x": -115.05427470000001,
+   "y": 48.890259200000003
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Lively Point Youth Center"
+  },
+  "geometry": {
+   "x": -96.951227800000026,
+   "y": 32.824578499999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Sander's Community Center"
+  },
+  "geometry": {
+   "x": -94.9013645,
+   "y": 29.388151400000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "New Hope Baptist Church of Lafayette"
+  },
+  "geometry": {
+   "x": -83.173000000000002,
+   "y": 30.08499999999998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "FULL-George R. Brown Convention Center"
+  },
+  "geometry": {
+   "x": -95.357866999999999,
+   "y": 29.751039999999989
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Easton Newbery Sports Complex"
+  },
+  "geometry": {
+   "x": -82.604014000000006,
+   "y": 29.669070499999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Miami-Dade Fairgrounds Fuchs Pavilion"
+  },
+  "geometry": {
+   "x": -80.372607599999981,
+   "y": 25.747351400000014
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Pensacola Bay Center"
+  },
+  "geometry": {
+   "x": -87.209069100000022,
+   "y": 30.41701999999998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Marianna High School"
+  },
+  "geometry": {
+   "x": -85.198624725000002,
+   "y": 30.812397209999972
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Blounstown High School"
+  },
+  "geometry": {
+   "x": -85.042590000000018,
+   "y": 30.467859999999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Chipley First Baptist Church"
+  },
+  "geometry": {
+   "x": -85.540715599999999,
+   "y": 30.77241429999998
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Southwide Baptist Church"
+  },
+  "geometry": {
+   "x": -86.141818000000001,
+   "y": 30.687950000000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Meadowbrook Elementary School"
+  },
+  "geometry": {
+   "x": -82.462383199999977,
+   "y": 29.687781299999983
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "NRG Center"
+  },
+  "geometry": {
+   "x": -95.410645199999976,
+   "y": 29.684872900000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "City of Sour Lake Community"
+  },
+  "geometry": {
+   "x": -94.411265300000025,
+   "y": 30.140016800000012
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Nacogdoches Expo and Civic Center"
+  },
+  "geometry": {
+   "x": -94.684370000000001,
+   "y": 31.617811700000004
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Carbide Park"
+  },
+  "geometry": {
+   "x": -95.002738000000022,
+   "y": 29.359614000000022
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Baytown-Lee College"
+  },
+  "geometry": {
+   "x": -94.976451999999995,
+   "y": 29.734540999999979
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Memorial Baptist Church"
+  },
+  "geometry": {
+   "x": -95.134834300000023,
+   "y": 29.649655699999983
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Met center"
+  },
+  "geometry": {
+   "x": -97.703446699999972,
+   "y": 30.206719399999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Pearland High School"
+  },
+  "geometry": {
+   "x": -95.270680599999992,
+   "y": 29.539033300000028
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Willow Drive Baptist Church"
+  },
+  "geometry": {
+   "x": -95.425832300000025,
+   "y": 29.045002000000011
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Kendleton ISD"
+  },
+  "geometry": {
+   "x": -96.022501599999998,
+   "y": 29.478298900000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Esc. Benjamin Harrison"
+  },
+  "geometry": {
+   "x": -66.168476100000021,
+   "y": 18.113850800000023
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Woods Baptist Church"
+  },
+  "geometry": {
+   "x": -84.363159999999993,
+   "y": 30.50386850000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "New Hope Community Church"
+  },
+  "geometry": {
+   "x": -96.099137499999983,
+   "y": 29.312611300000015
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Hi-Way Tabernacle Assembly of God"
+  },
+  "geometry": {
+   "x": -94.988369999999975,
+   "y": 30.312557000000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Esc. Luis Munoz Marin"
+  },
+  "geometry": {
+   "x": -65.645202637000011,
+   "y": 18.268020630000024
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Esc. Voc. William Rivera Betancourt"
+  },
+  "geometry": {
+   "x": -66.628036499000018,
+   "y": 18.249139786000001
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Mercy Gate Church"
+  },
+  "geometry": {
+   "x": -94.850334400000008,
+   "y": 29.834713700000009
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "North Miami Beach High School"
+  },
+  "geometry": {
+   "x": -80.175257852000016,
+   "y": 25.929138367999997
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Beuford Salvation Army"
+  },
+  "geometry": {
+   "x": -97.406741199999999,
+   "y": 27.794905500000027
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Church of the Apostles Houston"
+  },
+  "geometry": {
+   "x": -95.408993699999996,
+   "y": 29.796263599999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Fairway Middle School"
+  },
+  "geometry": {
+   "x": -97.730590000000007,
+   "y": 31.133346700000004
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "1st Baptist Church"
+  },
+  "geometry": {
+   "x": -81.623625100000027,
+   "y": 28.154467599999975
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Bonifay Middle School"
+  },
+  "geometry": {
+   "x": -85.679653299999984,
+   "y": 30.791855899999973
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "South Florida State College"
+  },
+  "geometry": {
+   "x": -81.840631499999972,
+   "y": 27.229575899999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Thomas Jefferson Middle School"
+  },
+  "geometry": {
+   "x": -93.914992499999983,
+   "y": 29.923942899999986
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "New Hope Holiness"
+  },
+  "geometry": {
+   "x": -93.288031199999978,
+   "y": 30.855027800000016
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Salvation Army - Beaumont"
+  },
+  "geometry": {
+   "x": -94.123475699999972,
+   "y": 30.096697699999993
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Dumbar Gym"
+  },
+  "geometry": {
+   "x": -94.946155299999987,
+   "y": 30.71691659999999
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Irma Pending Info"
+  },
+  "geometry": {
+   "x": -64.929274700000008,
+   "y": 18.342235599999981
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Atascocita Community Church"
+  },
+  "geometry": {
+   "x": -95.174135200000023,
+   "y": 29.972455799999977
+  }
+ },
+ {
+  "attributes": {
+   "SHELTER_NAME": "Harns Marsh Middle School"
+  },
+  "geometry": {
+   "x": -81.693209000000024,
+   "y": 26.639987000000019
+  }
+ }
+]
