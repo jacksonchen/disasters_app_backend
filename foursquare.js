@@ -34,8 +34,7 @@ foursquareAPI = function(lat, long) {
                     'latitude': current.location.lat,
                     'longitude': current.location.lng,
                     'type': 'grocer',
-                    'status': (err || query === null) ? null : query.status,
-                    'functional': true
+                    'status': (err || query === null) ? 'functional' : query.status
                   });
                   callback();
                 });

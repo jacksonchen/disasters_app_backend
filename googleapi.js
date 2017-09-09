@@ -51,8 +51,7 @@ googleAPICall = function(lat, long){
                   'latitude': current.geometry.location.lat,
                   'longitude': current.geometry.location.lng,
                   'type': 'gas',
-                  'status': (err || query === null) ? null : query.status,
-                  'functional': true
+                  'status': (err || query === null) ? 'functional' : query.status
                 });
                 callback();
               });

@@ -1,5 +1,6 @@
 const gas = require('./googleapi.js'),
       shop = require('./foursquare.js'),
+      redcross = require('./shelters.js'),
       MongoClient = require('mongodb').MongoClient;
 
 getAll = function(lat, long, callback) {
@@ -10,8 +11,12 @@ getAll = function(lat, long, callback) {
   })
   .then(function (shopResult) {
     results = results.concat(shopResult);
-    callback({'status': '200', 'body': results});
+    return redcross.shelters(lat, long);
   })
+  // .then(function (shelterResult) {
+  //   results = results.concat(shelterResult);
+  //   callback({'status': '200', 'body': results});
+  // })
   .catch(function(err) {
     console.err(err);
     callback({'status': '500', 'body': 'An internal server error occurred'});

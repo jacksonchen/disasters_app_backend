@@ -1,22 +1,39 @@
-var MongoClient = require('mongodb').MongoClient;
+const MongoClient = require('mongodb').MongoClient,
+    geolib = require('geolib'),
+    DISTANCE_LIMIT = 40000; // 25 miles
 
 redcross = function(lat, long) {
   return new Promise((resolve, reject) => {
-    var url = 'mongodb://localhost:27017/test';
+    var url = 'mongodb://localhost:27017/test',
+        closest = {},
+        calls = [];
+
     MongoClient.connect(url, function(err, db) {
       if (err) {
         reject('Shelter mongo connection errored.');
       }
 
-      var best = {};
-
-      var shelters = db.sheltersTest.find({});
-      for (var i = 0; i < shelters.length; i++) {
-        let dist =
-      }
-      db.sheltersTest.find({ "geometry.x": { $lt: long }, "geometry.y": { $gt: 36}})
-      console.log("Connected correctly to server.");
-      db.close();
+      db.collection('sheltersTest').find({}).toArray(function(err, shelters) {
+        for (var i = 0; i < shelters.length; i++) {
+          if (shelters[i].attributes.SHELTER_NAME === "Miami Carol City High School") {
+            console.log(geolib.getDistance({ latitude: shelters[i].geometry.x, longitude: shelters[i].geometry.y },
+                               { latitude: lat, longitude: long }));
+          }
+          if (geolib.getDistance({ latitude: shelters[i].geometry.x, longitude: shelters[i].geometry.y },
+                             { latitude: lat, longitude: long }) <= DISTANCE_LIMIT) {
+            console.log("Test");
+            closest.push({
+              'name': shelters[i].attributes.SHELTER_NAME,
+              'latitude': shelters[i].geometry.x,
+              'longitude': shelters[i].geometry.y,
+              'type': 'shelter',
+              'status': shelters[i].attributes.hasOwnProperty('status') ? null : shelters[i].attributes.status,
+              'functional': true
+            });
+          }
+        }
+        resolve(closest);
+      });
     });
   });
 }
