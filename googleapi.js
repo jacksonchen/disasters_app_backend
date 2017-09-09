@@ -20,7 +20,8 @@ googleAPICall = function(lat, long){
             'name': jsonObj.results[i].name,
             'latitude': jsonObj.results[i].geometry.location.lat,
             'longitude': jsonObj.results[i].geometry.location.lng,
-            'type': 'gas'
+            'type': 'gas',
+            'functional': true
           });
         }
         resolve(structuredRes);

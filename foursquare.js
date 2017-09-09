@@ -19,7 +19,8 @@ foursquareAPI = function(lat, long) {
               'name': current.name,
               'latitude': current.location.lat,
               'longitude': current.location.lng,
-              'type': 'grocer'
+              'type': 'grocer',
+              'functional': true
             });
           }
           resolve(structuredRes);
