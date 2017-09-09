@@ -1,4 +1,4 @@
-# disasters_app_backend
+# Disasters Data Crowdsource Application Backend
 Backend for a disaster data crowdsourcing app. PennApps Fall 2017.
 Contributors: Jackson Chen, Prakruth Adari, Arsalaan Ansari (Frontend)
 
