@@ -42,8 +42,20 @@ updateEntry = function(type, lat, long, status, callback) {
         });
         break;
       case 'shelter':
-        manipulateDB(db, 'sheltersTest', lat, long, status, function(res) {
-          callback(res);
+        db.collection('sheltersTest').findOne({'geometry.y': lat, 'geometry.x': long}, function(err, query) {
+          if (err) {
+            return callback({'status': '500', 'body': 'Could not get shelter'});
+          } else if (query == null) {
+            return callback({'status': '404', 'body': 'Shelter does not exist'});
+          }
+
+          db.collection('sheltersTest').updateOne({'geometry.y': lat, 'geometry.x': long}, { $set: { 'attributes.status': status }}, function(err, doc) {
+            db.close();
+            if (err) {
+              return callback({'status': '500', 'body': 'Could not save shelter'});
+            }
+            callback({'status': '200', 'body': 'Success'});
+          })
         });
         break;
       default:
@@ -77,7 +89,7 @@ manipulateDB = function(db, coll, lat, long, status, callback) {
         callback({'status': '200', 'body': 'Success'});
       });
     }
-  })
+  });
 }
 
 exports.getAll = getAll;
