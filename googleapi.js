@@ -4,14 +4,21 @@ var request = require('request'),
 
 
 googleAPICall = function(lat, long, callback){
-  var googleUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + lat + "," + long + "&radius=25000&type=gas_station&key=" + client_id;
-  request(googleUrl, json = true, function (error, response, body) {
-    callback(JSON.parse(body));
+  return new Promise((resolve, reject) => {
+    var googleUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=';
+    googleUrl = googleUrl.concat(lat, ',', long);
+    googleUrl = googleUrl.concat('&radius=25000&type=gas_station&key=', client_id);
+    request(googleUrl, json = true, function (error, response, body) {
+      if (error) {
+        reject('Google API error');
+      }
+      resolve(JSON.parse(body));
+    });
   });
 }
 
 
-var googleAPI = module.exports.googleAPICall;
+exports.googleAPI = googleAPICall;
 
 // googleAPICall(40.71442, -74.00608, function(jsonObj) {
 //   var names = [],
