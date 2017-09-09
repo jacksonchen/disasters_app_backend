@@ -12,7 +12,19 @@ googleAPICall = function(lat, long, callback){
       if (error) {
         reject('Google API error');
       }
-      resolve(JSON.parse(body));
+      else {
+        var jsonObj = JSON.parse(body),
+            structuredRes = [];
+        for(var i = 0; i < jsonObj.results.length; i++){
+          structuredRes.push({
+            'name': jsonObj.results[i].name,
+            'latitude': jsonObj.results[i].geometry.location.lat,
+            'longitude': jsonObj.results[i].geometry.location.lng,
+            'type': 'gas'
+          });
+        }
+        resolve(structuredRes);
+      }
     });
   });
 }
@@ -20,14 +32,6 @@ googleAPICall = function(lat, long, callback){
 
 exports.googleAPI = googleAPICall;
 
-// googleAPICall(40.71442, -74.00608, function(jsonObj) {
-//   var names = [],
-//       locations = [];
-//   for(var i = 0; i < jsonObj.results.length; i++){
-//     names.push(jsonObj.results[i].name)
-//     locations.push(jsonObj.results[i].geometry.location)
-//   }
-//
-//   console.log(names)
-//   console.log(locations)
+// googleAPICall(40.71442, -74.00608).then(function(jsonObj) {
+//   console.log(jsonObj);
 // });

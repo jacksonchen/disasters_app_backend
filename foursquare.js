@@ -11,7 +11,18 @@ foursquareAPI = function(lat, long, callback) {
     base = base.concat(client_id, '&client_secret=', client_secret, '&v=20170908');
     request(base, function (error, response, body) {
         if (!error && response.statusCode == 200) {
-          resolve(body);
+          var shops = JSON.parse(body).response.venues;
+          var structuredRes = [];
+          for (var i = 0; i < shops.length; i++) {
+            let current = shops[i];
+            structuredRes.push({
+              'name': current.name,
+              'latitude': current.location.lat,
+              'longitude': current.location.lng,
+              'type': 'grocer'
+            });
+          }
+          resolve(structuredRes);
         }
         else {
           reject('Foursquare API errored');
@@ -23,6 +34,6 @@ foursquareAPI = function(lat, long, callback) {
 
 exports.foursquare = foursquareAPI;
 
-// foursquareAPI(39.9,-75.2, function(ans) {
-//   console.log(ans);
+// foursquareAPI(39.9,-75.2).then(function(res) {
+//   console.log(res);
 // });
