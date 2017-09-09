@@ -5,8 +5,7 @@ const MongoClient = require('mongodb').MongoClient,
 redcross = function(lat, long) {
   return new Promise((resolve, reject) => {
     var url = 'mongodb://localhost:27017/test',
-        closest = {},
-        calls = [];
+        closest = [];
 
     MongoClient.connect(url, function(err, db) {
       if (err) {
@@ -15,20 +14,14 @@ redcross = function(lat, long) {
 
       db.collection('sheltersTest').find({}).toArray(function(err, shelters) {
         for (var i = 0; i < shelters.length; i++) {
-          if (shelters[i].attributes.SHELTER_NAME === "Miami Carol City High School") {
-            console.log(geolib.getDistance({ latitude: shelters[i].geometry.x, longitude: shelters[i].geometry.y },
-                               { latitude: lat, longitude: long }));
-          }
-          if (geolib.getDistance({ latitude: shelters[i].geometry.x, longitude: shelters[i].geometry.y },
+          if (geolib.getDistance({ latitude: shelters[i].geometry.y, longitude: shelters[i].geometry.x },
                              { latitude: lat, longitude: long }) <= DISTANCE_LIMIT) {
-            console.log("Test");
             closest.push({
               'name': shelters[i].attributes.SHELTER_NAME,
-              'latitude': shelters[i].geometry.x,
-              'longitude': shelters[i].geometry.y,
+              'latitude': shelters[i].geometry.y,
+              'longitude': shelters[i].geometry.x,
               'type': 'shelter',
-              'status': shelters[i].attributes.hasOwnProperty('status') ? null : shelters[i].attributes.status,
-              'functional': true
+              'status': shelters[i].attributes.hasOwnProperty('status') ? 'functional' : shelters[i].attributes.status
             });
           }
         }
