@@ -11,7 +11,8 @@ getAll = function(lat, long, callback) {
   })
   .then(function (shopResult) {
     results = results.concat(shopResult);
-    return redcross.shelters(lat, long);
+    callback({'status': '200', 'body': results});
+    // return redcross.shelters(lat, long);
   })
   // .then(function (shelterResult) {
   //   results = results.concat(shelterResult);
